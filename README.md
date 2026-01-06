@@ -1,13 +1,14 @@
 # Knowledge Base
 
-A personal knowledge base for things I’ve learned, figured out, or don’t want to forget.
+A structured reference repository for core concepts, patterns, and practical notes, maintained for quick lookup and consistency.
 
-This repo contains notes on frontend development concepts, patterns, and practical learnings,
+This repository contains notes on frontend development concepts, patterns, and recurring practices,
 organised by topic rather than by project.
 
-Notes are informal, evolving, and written for future reference.
+The notes are informal, evolving, and written primarily for future reference.
 
 ---
 
 ### Credits
+
 Some of the context and structure in this knowledge base were inspired by discussions and materials from [Valeriy Komlev](https://github.com/komlev).
